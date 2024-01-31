@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">	
+<suite name="Stackoverflow TEST">  
+  <test name="Stackoverflow TEST">
+	 <classes>
+	    <class name="POM_StackTest.POM_StackTest.HomePageTest"/>
+	    <class name="POM_StackTest.POM_StackTest.UserPageTest"/>
+	 </classes>
+   </test>
+   
+</suite>
